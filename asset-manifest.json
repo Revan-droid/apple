@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/apple/static/css/main.699fccf5.css",
+    "main.js": "/apple/static/js/main.dc9fae77.js",
+    "static/js/787.5123e447.chunk.js": "/apple/static/js/787.5123e447.chunk.js",
+    "static/media/ironman.png": "/apple/static/media/ironman.207e3e4ca651ca735c91.png",
+    "static/media/logo.svg": "/apple/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/apple/index.html",
+    "main.699fccf5.css.map": "/apple/static/css/main.699fccf5.css.map",
+    "main.dc9fae77.js.map": "/apple/static/js/main.dc9fae77.js.map",
+    "787.5123e447.chunk.js.map": "/apple/static/js/787.5123e447.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.699fccf5.css",
+    "static/js/main.dc9fae77.js"
+  ]
+}
