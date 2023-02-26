@@ -4,10 +4,8 @@ import ironman from './ironman.png'
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-      <img src={ironman}></img>
+        <img src={ironman} className="App-logo" alt="logo" />
 
-      </header>
     </div>
   );
 }
